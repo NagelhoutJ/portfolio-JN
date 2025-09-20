@@ -1,0 +1,6 @@
+artifact_location: file:///C:/GitHub/portfolio-JN/2-hypertuning-mlflow/mlruns/386845702443941256
+creation_time: 1758357980066
+experiment_id: '386845702443941256'
+last_update_time: 1758357980066
+lifecycle_stage: active
+name: hyperparam_scan
