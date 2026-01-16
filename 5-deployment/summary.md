@@ -1,5 +1,7 @@
 # Summary week 5
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I deployed a application based on the Niekarks dialect.
+To reach it you need to go to http://145.38.184.113/
+For this to work, i need to activate the SURF machine.
 
 [Go back to Homepage](../README.md)
 

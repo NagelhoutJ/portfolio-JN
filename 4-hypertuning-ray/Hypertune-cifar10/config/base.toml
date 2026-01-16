@@ -1,0 +1,21 @@
+[dataset]
+name = "cifar10"
+data_dir = "data"
+batch_size = 128
+num_workers = 2
+
+[training]
+epochs = 8
+lr = 0.001
+weight_decay = 0.0001
+optimizer = "adam"   # "adam" of "sgd"
+momentum = 0.9
+seed = 42
+
+[model]
+num_blocks = 3
+base_channels = 32
+kernel_size = 3
+use_batchnorm = true
+dropout = 0.2
+mlp_hidden = 256

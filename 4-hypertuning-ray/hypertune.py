@@ -114,6 +114,11 @@ if __name__ == "__main__":
     reporter = CLIReporter()
     reporter.add_metric_column("Accuracy")
 
+    import pickle
+    pickle.dumps(train)
+    print("train is pickleable")
+
+
     analysis = tune.run(
         train,
         config=config,
