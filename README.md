@@ -13,13 +13,13 @@ This website is built automatically using GitHub Pages. The main page you're rea
 1.  **[Hyperparameter rnn](./3-hypertuning-rnn/summary.md)**
     * Summary of the third week
 1.  **[Hyperparameter ray](./4-hypertuning-ray/summary.md)**
-    * A summary of my findings from tuning a Random Forest Classifier.
+    * Summary of the fourth week
 1.  **[Hackathon project Kadaster](./6-hackathon/project_kadaster.md)**
     * Hackathon project Kadaster
 1.  **[deployment](./5-deployment/summary.md)**
     * The result of my own deployment
-1.  **[Ethical Reflection: The Cuddlefish Dilemma](./7-ethics/summary.md)**
-    * A critical analysis of the ethical implications of AI-driven camouflage.
+1.  **[Ethical reports](./7-ethics/summary.md)**
+    * Ethics reports
 
 
 ## How to setup your own portfolio
